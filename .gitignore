@@ -1,0 +1,16 @@
+# Downloaded and user-provided data
+data/raw/
+data/processed/
+
+# Generated reports and model artifacts
+outputs/
+models/
+
+# Jupyter and Python runtime files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Operating system files
+.DS_Store
+Thumbs.db
